@@ -12,4 +12,6 @@ sns.barplot(x=vcounts_jakarta.index, y=vcounts_jakarta['Jakarta']) <br>
 upper lower whisker outliers pakai histplot <br> 
 normalize=True atau normalize=index <br>
 keluarin legend <br>
+kesimpulannya jangan ditelan mentah-mentah, inget Simpson's paradox <br>
+
 review SQL 
