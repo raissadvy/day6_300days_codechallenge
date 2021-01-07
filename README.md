@@ -3,7 +3,7 @@ day #6 for #300dayscodechallenge
 
 
 <br>
-crosstab + aggfunc ---> WAJIB TAHU CROSSTAB, VERY HANDY <br>
+crosstab + aggfunc ---> DONE, WAJIB TAHU CROSSTAB, VERY HANDY <br>
 pie chart ---> DONE <br>
 bar chart + sort values ---> DONE <br>
 box plot pake facet grid ---> DONE tergantung data nya <br>
